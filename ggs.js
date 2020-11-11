@@ -1,5 +1,5 @@
 
-var ggsjs = function(){};
+var ggsjs = async function(){};
 
 let axios = requoire("axios")
 
