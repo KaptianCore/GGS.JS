@@ -1,0 +1,25 @@
+{
+  "name": "ggs.js",
+  "version": "1.0.0",
+  "description": "An NPM Package To Make Interacting With The GGS API Easier",
+  "main": "ggs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaptianCore/GGS.JS.git"
+  },
+  "keywords": [
+    "ggs"
+  ],
+  "author": "Kaptian Core, Chills, Johnny H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaptianCore/GGS.JS/issues"
+  },
+  "homepage": "https://github.com/KaptianCore/GGS.JS#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
