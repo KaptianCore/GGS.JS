@@ -1,6 +1,6 @@
 {
   "name": "ggs.js",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "An NPM Package To Make Interacting With The GGS API Easier",
   "main": "ggs.js",
   "scripts": {
