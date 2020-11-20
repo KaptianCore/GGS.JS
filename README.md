@@ -28,14 +28,20 @@ let data = ggsjs.discordQuery('api token', 'discordid')
 let data = ggsjs.steamQuery('api token', 'steamid64')
 ```
 
+### **Santos Taxes Query**
+
+```js
+let data = ggsjs.taxesQuery('api token')
+```
+
 ### **Servers Query**
 
 ```js
-let data = ggsjs.serversQuery()
+let data = ggsjs.serversQuery('api token')
 ```
 
 ### **Shouts Query**
 
 ```js
-let data = ggsjs.shoutsQuery()
+let data = ggsjs.shoutsQuery('api token')
 ```
